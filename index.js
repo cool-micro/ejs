@@ -22,5 +22,5 @@ app.all("*", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`App running on port ${port}`);
+  console.log(`Live on port ${port}`);
 });
